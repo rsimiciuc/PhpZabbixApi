@@ -1,5 +1,5 @@
 {
-    "name": "PhpZabbixApi/ZabbixApi",
+    "name": "php-zabbix-api/zabbix-api",
     "type": "library",
     "description": "PHP Zabbix API lib",
     "keywords": ["zabbix","api"],
